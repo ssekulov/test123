@@ -1,3 +1,7 @@
 this is a server file
 235009
+<<<<<<< HEAD
 Sekulov
+=======
+Stefan
+>>>>>>> bc59cd7a4931231d7b510a8f41fa48452f659b58
